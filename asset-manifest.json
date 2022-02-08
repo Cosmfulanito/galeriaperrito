@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/galeriaperrito/static/css/main.24aa4c61.css",
+    "main.js": "/galeriaperrito/static/js/main.27365947.js",
+    "index.html": "/galeriaperrito/index.html",
+    "main.24aa4c61.css.map": "/galeriaperrito/static/css/main.24aa4c61.css.map",
+    "main.27365947.js.map": "/galeriaperrito/static/js/main.27365947.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.24aa4c61.css",
+    "static/js/main.27365947.js"
+  ]
+}
