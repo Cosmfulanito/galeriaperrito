@@ -202,7 +202,7 @@ function App() {
 		<div className="App">			
 			<Router>
 				<header className='header'>
-				<img src={`./assets/images/mona-lisa/artist.jpg`} alt={'perrito'}></img>
+				{/* <img src={`./assets/images/mona-lisa/artist.jpg`} alt={'perrito'}></img> */}
 					<div className='top-header'>
 						<Link to="/galeriaperrito">
 							<img src='./assets/shared/logo.svg' alt='title' className='title'></img>
